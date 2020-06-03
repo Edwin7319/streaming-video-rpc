@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cliente/src"/>
+	<classpathentry kind="src" path="Servidor/src"/>
+	<classpathentry kind="lib" path="D:/ASUS/Universidad/Sexto/Computacion Distribuida/2B/Stream/xmlrpc-1.1/xmlrpc-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/ASUS/Universidad/Sexto/Computacion Distribuida/2B/Stream/xmlrpc-1.1/xmlrpc-1.1-applet.jar"/>
+	<classpathentry kind="output" path="Cliente/bin"/>
+</classpath>
